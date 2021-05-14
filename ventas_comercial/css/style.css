@@ -1,0 +1,18 @@
+th{
+    background-color: #007bff;
+    color: white; 
+    text-align: center;
+  }
+
+tbody tr {
+    font-size:smaller;
+}
+
+td {
+    text-align: center;
+}
+
+.dt-button {
+    padding: 0;
+    border: none;
+  }
