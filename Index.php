@@ -69,7 +69,6 @@ try {
 </head>	
 <body>
 
-<h1>PRUEBA TITLE</h1>
 
 <br/>
 
