@@ -69,6 +69,8 @@ try {
 </head>	
 <body>
 
+<h1>PRUEBA TITLE</h1>
+
 <br/>
 
 <div class="form-group pull-right">
